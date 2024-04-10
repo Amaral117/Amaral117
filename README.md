@@ -16,6 +16,7 @@ Cursando tecnologia, desenvolvimento e programação. Buscando sempre o conhecim
 ## Especificações
 - Linguagens: Python, JavaScript
 - Ferramentas: Git
+- 
 
 ## Habilidades Técnicas
 <div style="display: inline_block"><br>  
